@@ -40,8 +40,8 @@ cacheSolve <- function(m,...) # the input is an object created by makeCacheMatri
 # [,1] [,2]
 # [1,]   -4  3.5
 # [2,]    3 -2.5
-# > m3 <- makeCacheMatrix(matrix(9:12,2,2))
-# > cacheSolve(m3)
+# > cacheSolve(m2)
+# getting cached data
 # [,1] [,2]
-# [1,]   -6  5.5
-# [2,]    5 -4.5
+# [1,]   -4  3.5
+# [2,]    3 -2.5
